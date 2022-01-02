@@ -1,11 +1,8 @@
 
 ![Purple Minimalist Brush Personal LinkedIn Banner](https://user-images.githubusercontent.com/72257400/147883960-a9234356-e0e4-429a-9c42-86dba6434c1d.gif)
+![image-removebg-preview](https://user-images.githubusercontent.com/72257400/147884362-9fd147a5-06be-4c5a-a17e-6dec2e9de380.png)
+ ### Hi there 👋
 
-
-
-
-
-### Hi there 👋 
 
 <!--
 **yatharthagr7/yatharthagr7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
