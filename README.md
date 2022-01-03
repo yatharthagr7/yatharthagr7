@@ -1,5 +1,7 @@
 ![Purple Minimalist Brush Personal LinkedIn Banner](https://user-images.githubusercontent.com/72257400/147883960-a9234356-e0e4-429a-9c42-86dba6434c1d.gif)
-![image-removebg-preview](https://user-images.githubusercontent.com/72257400/147884510-39fc8b90-79ba-4d88-af35-ad54a4dcf68b.png)
+![image-removebg-preview](https://user-images.githubusercontent.com/72257400/147908642-eda7a7e6-be64-4e1f-a95f-22cdd965415b.png)<img align="right" width="340" height="340" src="https://user-images.githubusercontent.com/72257400/147908651-510b7651-2db0-4746-8f96-c194bb452e1d.png">
+
+
 
 
 
