@@ -14,7 +14,7 @@
 ![Orange Blue and Yellow About Me Interview Worksheet](https://user-images.githubusercontent.com/72257400/147931680-8fd8bbec-54ca-402f-95fc-6be93a9d88f5.gif)
 
 
-# Let's have a look on MY STATS;
+# MY STATISTICS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yatharthagr7&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)![ GitHub stats](https://github-readme-stats.vercel.app/api?username=yatharthagr7&show_icons=true&theme=highcontrast)
 
 # CONNECT WITH ME 
