@@ -18,13 +18,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yatharthagr7&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)![ GitHub stats](https://github-readme-stats.vercel.app/api?username=yatharthagr7&show_icons=true&theme=highcontrast)
 
 # CONNECT WITH ME 
- [![Twitter][1.2]][1]   [![LinkedIn][2.2]][2]
+ [![Twitter][1.2]][1]   [![LinkedIn][2.2]][2] 
 
 <!-- Icons -->
 
-[1.2]: https://user-images.githubusercontent.com/72257400/148107007-dcf19e1e-795f-4512-b914-d5c97a8b7c73.png
+[1.2]: https://user-images.githubusercontent.com/72257400/148107526-1fb39ada-64cc-44ba-90ee-20b30f5fa6f0.png
+[2.2]: https://user-images.githubusercontent.com/72257400/148107604-158f3e03-d3c4-41a6-ba1f-0901a69e4437.png
+[3.2]: https://user-images.githubusercontent.com/72257400/148107850-9a6dc6d6-e9cb-48a6-9e2e-d0bfff1e6ac0.png
 
-[2.2]: https://user-images.githubusercontent.com/72257400/148106823-cb9294ef-5a3a-466b-b66a-926d3cb6cd12.png
 
 
 <!-- Links to your social media accounts -->
