@@ -17,6 +17,13 @@
 # MY STATISTICS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yatharthagr7&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)![ GitHub stats](https://github-readme-stats.vercel.app/api?username=yatharthagr7&show_icons=true&theme=highcontrast)
 
+<p align="center">
+  <img width="800" height="400" src="https://github-readme-streak-stats.herokuapp.com/?user=yatharthagr7&theme=neon-dark">
+</p>
+
+
+
+
 # CONNECT WITH ME 
  [![Twitter][1.2]][1]   [![LinkedIn][2.2]][2] 
 
