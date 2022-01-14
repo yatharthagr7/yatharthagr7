@@ -24,7 +24,7 @@
 
 
 
-# CONNECT WITH ME 
+## CONNECT WITH ME 
  [![Twitter][1.2]][1]   [![LinkedIn][2.2]][2] 
 
 <!-- Icons -->
