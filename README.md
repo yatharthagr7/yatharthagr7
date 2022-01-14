@@ -22,6 +22,8 @@
 </p>
 
 
+<p align="center">
+  <img width="800" height="200" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
 
 
 ## CONNECT WITH ME 
