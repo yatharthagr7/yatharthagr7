@@ -11,7 +11,7 @@
 
 
 
-![Orange Blue and Yellow About Me Interview Worksheet](https://user-images.githubusercontent.com/72257400/147931680-8fd8bbec-54ca-402f-95fc-6be93a9d88f5.gif)
+![Orange Blue and Yellow About Me Interview Worksheet](https://github.com/yatharthagr7/yatharthagr7/blob/main/Orange%20Blue%20and%20Yellow%20About%20Me%20Interview%20Worksheet.gif)
 
 
 # MY STATISTICS
