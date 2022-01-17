@@ -1,4 +1,4 @@
-![Purple Minimalist Brush Personal LinkedIn Banner](https://user-images.githubusercontent.com/72257400/147883960-a9234356-e0e4-429a-9c42-86dba6434c1d.gif)
+![Purple Minimalist Brush Personal LinkedIn Banner](https://github.com/yatharthagr7/yatharthagr7/blob/main/Purple%20Minimalist%20Brush%20Personal%20LinkedIn%20Banner.gif)
 <img align="left" width="400" height="400" src="https://github.com/yatharthagr7/yatharthagr7/blob/main/image-removebg-preview.png"><img align="right" width="400" height="400" src="https://github.com/yatharthagr7/yatharthagr7/blob/main/Blue_Clouds_Airplane_Illustrations_Welcome_Card-removebg-preview.png">
 
 
